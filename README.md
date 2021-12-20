@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋
+
+I am Software Developer with expertise in scripting languages Perl, Ruby & Python
+
+
+![sonivi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonivi&show_icons=true&theme=vue&icon_color=95A5A6&title_color=F1C40F&hide_border=1)
 
 <!--
 **sonivi/sonivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
