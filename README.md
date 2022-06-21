@@ -2,10 +2,6 @@
 
 I am Software Developer with expertise in scripting languages Perl, Ruby & Python
 
-## GitHub Stats
-
-<img src="https://github.com/sonivi/sonivi/blob/main/sonivi-2021.stl" width="700">
-
 <!--
 **sonivi/sonivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
