@@ -6,7 +6,7 @@ I am Software Developer with expertise in scripting languages Perl, Ruby & Pytho
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=sonivi&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for sonivi" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=sonivi&show_icons=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats for sonivi" width="700">
 
 
 <!--
